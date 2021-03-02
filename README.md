@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚡ colorgenic 빛깔이 선명한
+<!-- ⚡ colorgenic 빛깔이 선명한 -->
 
 <!--
 **colorgenic/colorgenic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
